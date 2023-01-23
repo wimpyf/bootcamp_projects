@@ -1,4 +1,4 @@
-# bootcamp_project
+# Bootcamp_project
 Data Science bootcamp with adToy
 
 we learn 10 sprints during 4 months program.
